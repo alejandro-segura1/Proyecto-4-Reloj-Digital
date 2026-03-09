@@ -1,0 +1,12 @@
+D:\Practica 4 - Reloj Digital\Practica4RelojDigital\Practica4RelojDigital\bin\Debug\Practica4RelojDigital.exe.config
+D:\Practica 4 - Reloj Digital\Practica4RelojDigital\Practica4RelojDigital\bin\Debug\Practica4RelojDigital.exe
+D:\Practica 4 - Reloj Digital\Practica4RelojDigital\Practica4RelojDigital\bin\Debug\Practica4RelojDigital.pdb
+D:\Practica 4 - Reloj Digital\Practica4RelojDigital\Practica4RelojDigital\bin\Debug\Practica4RelojDigital.xml
+D:\Practica 4 - Reloj Digital\Practica4RelojDigital\Practica4RelojDigital\obj\Debug\Practica4RelojDigital.vbprojAssemblyReference.cache
+D:\Practica 4 - Reloj Digital\Practica4RelojDigital\Practica4RelojDigital\obj\Debug\Practica4RelojDigital.Form1.resources
+D:\Practica 4 - Reloj Digital\Practica4RelojDigital\Practica4RelojDigital\obj\Debug\Practica4RelojDigital.Resources.resources
+D:\Practica 4 - Reloj Digital\Practica4RelojDigital\Practica4RelojDigital\obj\Debug\Practica4RelojDigital.vbproj.GenerateResource.cache
+D:\Practica 4 - Reloj Digital\Practica4RelojDigital\Practica4RelojDigital\obj\Debug\Practica4RelojDigital.vbproj.CoreCompileInputs.cache
+D:\Practica 4 - Reloj Digital\Practica4RelojDigital\Practica4RelojDigital\obj\Debug\Practica4RelojDigital.exe
+D:\Practica 4 - Reloj Digital\Practica4RelojDigital\Practica4RelojDigital\obj\Debug\Practica4RelojDigital.xml
+D:\Practica 4 - Reloj Digital\Practica4RelojDigital\Practica4RelojDigital\obj\Debug\Practica4RelojDigital.pdb
